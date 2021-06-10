@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.table {
+  font-family: sans-serif;
+}
+
+.table thead {
+  background-color: rgb(39, 197, 0);
+  color: #fff;
+}
+
+.table th,
+.table td {
+  padding: 5px;
+  border: none;
+  outline: none;
+}
