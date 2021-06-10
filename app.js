@@ -1,4 +1,4 @@
-//Array que contiene los datos para mostrar
+
 let usersList = [
   {
     name: "Daniel",
